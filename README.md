@@ -1,6 +1,6 @@
 # React Blog System
 
-A full-featured blog application built using **React.js**. The React Blog System allows users to create, read, update, and delete blog posts, offering a clean and responsive UI.
+A full-featured blog application built using **React.js**. The React Blog System allows users to create, read, update, and delete blog posts with the login and signup feature and offering a clean and responsive UI.
 
 ---
 
@@ -10,7 +10,7 @@ A full-featured blog application built using **React.js**. The React Blog System
 - **Read**: Display posts in a clean, responsive interface with pagination.
 - **Update**: Edit your existing posts seamlessly.
 - **Delete**: Remove unwanted posts with a confirmation modal.
-- **Authentication**: Secure user registration and login using **Firebase/Auth0**.
+- **Authentication**: Secure user registration and login using **Appwrite**.
 - **Responsive Design**: Works on mobile, tablet, and desktop.
 
 ---
